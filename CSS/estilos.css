@@ -1,0 +1,40 @@
+h1{
+    color: rgb(9, 144, 255);
+    background-color: rgb(61, 61, 55);
+    font-family: 'Akronim', cursive;
+    text-align: center;
+}
+
+h2{
+    color: #0000ff;
+    background-color: rgb(50,200,150);
+}
+
+h3,h6{
+    color: aqua;
+    background-color: tomato;
+    text-align: center;
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+
+/*Creacion de*/
+.aplicaFormato{
+    text-align: center;
+    background-color: dimgray;
+    border-radius: 5%; 
+}
+
+.aplicaFormato .tamanioImg {
+    width: 200p;
+}
+
+ul{
+    list-style-type: square;
+}
+
+#sinVinieta{
+    list-style-type: none;
+}
